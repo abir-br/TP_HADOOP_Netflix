@@ -1,0 +1,38 @@
+=== COÛT PAR HEURE DE VISIONNAGE - FILMS NETFLIX ORIGINAUX ===	
+Classement par ROI (meilleur investissement d'abord)	
+Rang	ID_Titre	Film	Heures_Visionnées	Coût_Production	Coût/Heure	ROI
+----	--------	----	----------------	---------------	----------	---
+1	13	"Mascots"	25,6h	$44,5M	$1,7M/h	★☆☆☆☆
+2	8	"Rebirth"	23,6h	$50,5M	$2,1M/h	★☆☆☆☆
+3	5	"The Do-Over"	24,9h	$54,0M	$2,2M/h	★☆☆☆☆
+4	3	"Pee-wee's Big Holiday"	20,2h	$44,5M	$2,2M/h	★☆☆☆☆
+5	11	"ARQ"	19,7h	$44,0M	$2,2M/h	★☆☆☆☆
+6	14	"I Am the Pretty Thing That Lives in t..."	19,3h	$43,5M	$2,3M/h	★☆☆☆☆
+7	15	"7 Años"	15,3h	$38,5M	$2,5M/h	★☆☆☆☆
+8	7	"Brahman Naman"	17,7h	$47,5M	$2,7M/h	★☆☆☆☆
+9	17	"Mercy"	16,0h	$45,0M	$2,8M/h	★☆☆☆☆
+10	4	"Special Correspondents"	17,0h	$50,0M	$2,9M/h	★☆☆☆☆
+11	10	"XOXO"	14,2h	$46,0M	$3,2M/h	★☆☆☆☆
+12	19	"Barry"	15,4h	$52,0M	$3,4M/h	★☆☆☆☆
+13	16	"True Memoirs of an International Assa..."	14,5h	$49,0M	$3,4M/h	★☆☆☆☆
+14	192	"Klaus"	24,9h	$97,0M	$3,9M/h	★☆☆☆☆
+15	0	"Beasts of No Nation"	17,3h	$68,5M	$3,9M/h	★☆☆☆☆
+16	227	"The Willoughbys"	22,6h	$92,0M	$4,1M/h	★☆☆☆☆
+17	9	"Tallulah"	13,6h	$55,5M	$4,1M/h	★☆☆☆☆
+18	18	"Spectral"	11,5h	$53,5M	$4,6M/h	★☆☆☆☆
+19	6	"The Fundamentals of Caring"	9,4h	$46,5M	$5,0M/h	★☆☆☆☆
+20	326	"Pinocchio"	19,7h	$100,0M	$5,1M/h	★☆☆☆☆
+21	242	"A Whisker Away"	18,5h	$104,0M	$5,6M/h	★☆☆☆☆
+22	37	"Blame!"	14,2h	$79,5M	$5,6M/h	★☆☆☆☆
+23	1	"The Ridiculous 6"	10,6h	$60,0M	$5,7M/h	★☆☆☆☆
+24	40	"Okja"	13,0h	$90,0M	$6,9M/h	★☆☆☆☆
+25	12	"The Siege of Jadotville"	6,8h	$54,0M	$8,0M/h	★☆☆☆☆
+26	294	"Over the Moon"	9,5h	$100,0M	$10,5M/h	★☆☆☆☆
+	
+=== SYNTHÈSE ===	
+Films analysés:	26 films
+Coût/heure moyen:	$4,1M/h
+Coût total des films:	$1,61B
+Heures totales visionnées:	435,0h
+Meilleur ROI:	Mascots - $1,7M/h
+Pire ROI:	Over the Moon - $10,5M/h

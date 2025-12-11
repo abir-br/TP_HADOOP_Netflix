@@ -1,0 +1,301 @@
+id_membre,pays_principal,age,tranche_age,genre,date_inscription,anciennete_mois,type_abonnement_actuel,appareil_principal,statut_abonnement
+1,Belgique,29,35-49,Femme,2023-09-11,1,Standard,iPhone,Actif
+2,Suisse,50,35-49,Non spécifié,2022-12-11,4,Premium,Tablette,Actif
+3,Canada,62,50+,Homme,2022-07-11,23,VIP,Ordinateur,Inactif
+4,Allemagne,57,50+,Femme,2023-03-11,10,Essai,Smart TV,Inactif
+5,Espagne,61,50+,Non spécifié,2024-11-11,13,Basique,Console Jeu,Actif
+6,Italie,21,25-34,Homme,2024-11-11,42,Standard,Smartphone Android,Actif
+7,Royaume-Uni,39,35-49,Femme,2023-12-11,2,Premium,iPhone,Actif
+8,États-Unis,55,25-34,Non spécifié,2024-07-11,36,VIP,Tablette,Actif
+9,Maroc,52,35-49,Homme,2023-07-11,42,Essai,Ordinateur,Suspendu
+10,Tunisie,25,35-49,Femme,2025-10-11,34,Basique,Smart TV,Actif
+11,Algérie,65,50+,Non spécifié,2025-06-11,16,Standard,Console Jeu,Suspendu
+12,Sénégal,26,25-34,Homme,2024-03-11,25,Premium,Smartphone Android,Actif
+13,Côte d'Ivoire,29,25-34,Femme,2024-10-11,36,VIP,iPhone,Inactif
+14,Brésil,22,50+,Non spécifié,2022-01-11,40,Essai,Tablette,Actif
+15,Portugal,46,35-49,Homme,2023-11-11,19,Basique,Ordinateur,Actif
+16,Pays-Bas,46,35-49,Femme,2024-08-11,29,Standard,Smart TV,Inactif
+17,Luxembourg,27,35-49,Non spécifié,2022-10-11,22,Premium,Console Jeu,Inactif
+18,Suède,21,50+,Homme,2022-05-11,32,VIP,Smartphone Android,Actif
+19,Autre,68,50+,Femme,2022-05-11,5,Essai,iPhone,Actif
+20,France,25,35-49,Non spécifié,2025-03-11,1,Basique,Tablette,Actif
+21,Belgique,55,25-34,Homme,2022-03-11,15,Standard,Ordinateur,Actif
+22,Suisse,60,50+,Femme,2023-07-11,21,Premium,Smart TV,Actif
+23,Canada,31,50+,Non spécifié,2024-05-11,19,VIP,Console Jeu,Actif
+24,Allemagne,52,25-34,Homme,2023-11-11,18,Essai,Smartphone Android,Actif
+25,Espagne,21,35-49,Femme,2025-11-11,31,Basique,iPhone,Actif
+26,Italie,21,35-49,Non spécifié,2023-06-11,1,Standard,Tablette,Actif
+27,Royaume-Uni,36,35-49,Homme,2022-01-11,35,Premium,Ordinateur,Actif
+28,États-Unis,41,25-34,Femme,2023-02-11,42,VIP,Smart TV,Actif
+29,Maroc,48,18-24,Non spécifié,2023-06-11,1,Essai,Console Jeu,Actif
+30,Tunisie,45,35-49,Homme,2023-08-11,40,Basique,Smartphone Android,Suspendu
+31,Algérie,20,25-34,Femme,2024-06-11,8,Standard,iPhone,Actif
+32,Sénégal,36,18-24,Non spécifié,2025-07-11,28,Premium,Tablette,Actif
+33,Côte d'Ivoire,47,35-49,Homme,2025-09-11,13,VIP,Ordinateur,Actif
+34,Brésil,45,35-49,Femme,2025-11-11,41,Essai,Smart TV,Actif
+35,Portugal,70,50+,Non spécifié,2024-11-11,15,Basique,Console Jeu,Actif
+36,Pays-Bas,65,25-34,Homme,2022-05-11,43,Standard,Smartphone Android,Suspendu
+37,Luxembourg,42,35-49,Femme,2025-08-11,28,Premium,iPhone,Actif
+38,Suède,59,25-34,Non spécifié,2023-02-11,10,VIP,Tablette,Inactif
+39,Autre,45,25-34,Homme,2024-10-11,43,Essai,Ordinateur,Suspendu
+40,France,33,25-34,Femme,2023-05-11,37,Basique,Smart TV,Inactif
+41,Belgique,20,50+,Non spécifié,2022-04-11,36,Standard,Console Jeu,Inactif
+42,Suisse,41,35-49,Homme,2024-09-11,39,Premium,Smartphone Android,Actif
+43,Canada,22,35-49,Femme,2024-05-11,46,VIP,iPhone,Suspendu
+44,Allemagne,23,35-49,Non spécifié,2025-09-11,10,Essai,Tablette,Inactif
+45,Espagne,36,50+,Homme,2022-11-11,48,Basique,Ordinateur,Suspendu
+46,Italie,73,50+,Femme,2025-05-11,20,Standard,Smart TV,Actif
+47,Royaume-Uni,35,35-49,Non spécifié,2024-11-11,17,Premium,Console Jeu,Inactif
+48,États-Unis,27,25-34,Homme,2024-12-11,8,VIP,Smartphone Android,Actif
+49,Maroc,38,50+,Femme,2024-09-11,31,Essai,iPhone,Suspendu
+50,Tunisie,34,35-49,Non spécifié,2022-03-11,16,Basique,Tablette,Actif
+51,Algérie,34,35-49,Homme,2023-04-11,31,Standard,Ordinateur,Actif
+52,Sénégal,55,50+,Femme,2024-08-11,37,Premium,Smart TV,Inactif
+53,Côte d'Ivoire,55,35-49,Non spécifié,2024-04-11,25,VIP,Console Jeu,Actif
+54,Brésil,43,50+,Homme,2025-10-11,19,Essai,Smartphone Android,Inactif
+55,Portugal,58,35-49,Femme,2022-06-11,47,Basique,iPhone,Actif
+56,Pays-Bas,45,50+,Non spécifié,2022-04-11,9,Standard,Tablette,Suspendu
+57,Luxembourg,54,25-34,Homme,2024-01-11,23,Premium,Ordinateur,Inactif
+58,Suède,65,50+,Femme,2024-11-11,5,VIP,Smart TV,Suspendu
+59,Autre,61,35-49,Non spécifié,2022-10-11,32,Essai,Console Jeu,Inactif
+60,France,36,18-24,Homme,2025-06-11,31,Basique,Smartphone Android,Inactif
+61,Belgique,72,25-34,Femme,2025-10-11,8,Standard,iPhone,Actif
+62,Suisse,39,35-49,Non spécifié,2022-06-11,46,Premium,Tablette,Actif
+63,Canada,46,25-34,Homme,2023-03-11,38,VIP,Ordinateur,Inactif
+64,Allemagne,65,50+,Femme,2024-08-11,19,Essai,Smart TV,Inactif
+65,Espagne,49,35-49,Non spécifié,2023-09-11,17,Basique,Console Jeu,Suspendu
+66,Italie,68,35-49,Homme,2022-04-11,20,Standard,Smartphone Android,Actif
+67,Royaume-Uni,48,25-34,Femme,2024-03-11,43,Premium,iPhone,Actif
+68,États-Unis,65,25-34,Non spécifié,2025-02-11,3,VIP,Tablette,Suspendu
+69,Maroc,73,35-49,Homme,2023-11-11,44,Essai,Ordinateur,Inactif
+70,Tunisie,73,25-34,Femme,2024-11-11,13,Basique,Smart TV,Actif
+71,Algérie,74,35-49,Non spécifié,2022-10-11,2,Standard,Console Jeu,Inactif
+72,Sénégal,74,25-34,Homme,2024-08-11,17,Premium,Smartphone Android,Actif
+73,Côte d'Ivoire,19,25-34,Femme,2023-12-11,45,VIP,iPhone,Actif
+74,Brésil,46,50+,Non spécifié,2025-05-11,42,Essai,Tablette,Inactif
+75,Portugal,37,35-49,Homme,2024-01-11,13,Basique,Ordinateur,Inactif
+76,Pays-Bas,34,18-24,Femme,2025-03-11,48,Standard,Smart TV,Actif
+77,Luxembourg,24,25-34,Non spécifié,2025-07-11,38,Premium,Console Jeu,Actif
+78,Suède,69,25-34,Homme,2024-02-11,37,VIP,Smartphone Android,Actif
+79,Autre,48,18-24,Femme,2022-06-11,8,Essai,iPhone,Actif
+80,France,47,50+,Non spécifié,2023-07-11,47,Basique,Tablette,Inactif
+81,Belgique,71,50+,Homme,2025-03-11,44,Standard,Ordinateur,Inactif
+82,Suisse,63,50+,Femme,2024-10-11,40,Premium,Smart TV,Actif
+83,Canada,44,25-34,Non spécifié,2025-01-11,16,VIP,Console Jeu,Inactif
+84,Allemagne,61,25-34,Homme,2023-12-11,41,Essai,Smartphone Android,Actif
+85,Espagne,45,35-49,Femme,2022-05-11,45,Basique,iPhone,Inactif
+86,Italie,21,35-49,Non spécifié,2025-04-11,23,Standard,Tablette,Inactif
+87,Royaume-Uni,66,50+,Homme,2023-10-11,26,Premium,Ordinateur,Inactif
+88,États-Unis,30,50+,Femme,2022-12-11,46,VIP,Smart TV,Actif
+89,Maroc,66,25-34,Non spécifié,2024-01-11,36,Essai,Console Jeu,Actif
+90,Tunisie,53,50+,Homme,2025-01-11,33,Basique,Smartphone Android,Actif
+91,Algérie,48,35-49,Femme,2023-08-11,20,Standard,iPhone,Actif
+92,Sénégal,19,50+,Non spécifié,2025-04-11,24,Premium,Tablette,Inactif
+93,Côte d'Ivoire,31,35-49,Homme,2023-08-11,33,VIP,Ordinateur,Actif
+94,Brésil,54,35-49,Femme,2025-08-11,46,Essai,Smart TV,Actif
+95,Portugal,67,35-49,Non spécifié,2024-09-11,30,Basique,Console Jeu,Actif
+96,Pays-Bas,21,50+,Homme,2022-02-11,39,Standard,Smartphone Android,Actif
+97,Luxembourg,22,35-49,Femme,2025-05-11,27,Premium,iPhone,Actif
+98,Suède,71,18-24,Non spécifié,2024-01-11,14,VIP,Tablette,Inactif
+99,Autre,58,35-49,Homme,2024-09-11,47,Essai,Ordinateur,Inactif
+100,France,32,25-34,Femme,2025-05-11,24,Basique,Smart TV,Actif
+101,Belgique,57,50+,Non spécifié,2025-05-11,46,Standard,Console Jeu,Actif
+102,Suisse,40,35-49,Homme,2024-07-11,29,Premium,Smartphone Android,Inactif
+103,Canada,52,25-34,Femme,2023-06-11,34,VIP,iPhone,Actif
+104,Allemagne,50,25-34,Non spécifié,2024-06-11,18,Essai,Tablette,Actif
+105,Espagne,22,18-24,Homme,2025-12-11,43,Basique,Ordinateur,Actif
+106,Italie,36,50+,Femme,2023-03-11,35,Standard,Smart TV,Actif
+107,Royaume-Uni,39,25-34,Non spécifié,2025-07-11,13,Premium,Console Jeu,Inactif
+108,États-Unis,27,35-49,Homme,2023-11-11,11,VIP,Smartphone Android,Actif
+109,Maroc,71,50+,Femme,2023-03-11,17,Essai,iPhone,Suspendu
+110,Tunisie,74,25-34,Non spécifié,2025-02-11,46,Basique,Tablette,Actif
+111,Algérie,27,25-34,Homme,2022-06-11,37,Standard,Ordinateur,Actif
+112,Sénégal,19,25-34,Femme,2023-04-11,1,Premium,Smart TV,Actif
+113,Côte d'Ivoire,24,35-49,Non spécifié,2024-04-11,30,VIP,Console Jeu,Suspendu
+114,Brésil,39,18-24,Homme,2024-05-11,35,Essai,Smartphone Android,Actif
+115,Portugal,61,18-24,Femme,2025-02-11,39,Basique,iPhone,Actif
+116,Pays-Bas,35,18-24,Non spécifié,2024-03-11,47,Standard,Tablette,Actif
+117,Luxembourg,52,50+,Homme,2025-04-11,10,Premium,Ordinateur,Actif
+118,Suède,43,35-49,Femme,2023-05-11,31,VIP,Smart TV,Actif
+119,Autre,37,25-34,Non spécifié,2025-10-11,6,Essai,Console Jeu,Actif
+120,France,27,50+,Homme,2025-07-11,31,Basique,Smartphone Android,Inactif
+121,Belgique,18,35-49,Femme,2024-12-11,48,Standard,iPhone,Actif
+122,Suisse,50,18-24,Non spécifié,2022-08-11,43,Premium,Tablette,Inactif
+123,Canada,18,25-34,Homme,2022-01-11,26,VIP,Ordinateur,Suspendu
+124,Allemagne,52,35-49,Femme,2024-01-11,34,Essai,Smart TV,Inactif
+125,Espagne,64,18-24,Non spécifié,2022-05-11,20,Basique,Console Jeu,Suspendu
+126,Italie,30,25-34,Homme,2022-08-11,4,Standard,Smartphone Android,Inactif
+127,Royaume-Uni,73,50+,Femme,2024-12-11,15,Premium,iPhone,Inactif
+128,États-Unis,73,35-49,Non spécifié,2022-09-11,2,VIP,Tablette,Actif
+129,Maroc,64,50+,Homme,2023-08-11,14,Essai,Ordinateur,Actif
+130,Tunisie,55,18-24,Femme,2025-02-11,47,Basique,Smart TV,Suspendu
+131,Algérie,41,18-24,Non spécifié,2025-08-11,13,Standard,Console Jeu,Actif
+132,Sénégal,48,50+,Homme,2025-10-11,39,Premium,Smartphone Android,Inactif
+133,Côte d'Ivoire,64,25-34,Femme,2025-02-11,33,VIP,iPhone,Actif
+134,Brésil,29,35-49,Non spécifié,2024-02-11,8,Essai,Tablette,Actif
+135,Portugal,64,50+,Homme,2025-02-11,41,Basique,Ordinateur,Actif
+136,Pays-Bas,58,50+,Femme,2022-08-11,18,Standard,Smart TV,Actif
+137,Luxembourg,59,35-49,Non spécifié,2024-12-11,32,Premium,Console Jeu,Actif
+138,Suède,61,25-34,Homme,2022-05-11,16,VIP,Smartphone Android,Inactif
+139,Autre,48,25-34,Femme,2024-09-11,42,Essai,iPhone,Actif
+140,France,42,25-34,Non spécifié,2025-01-11,31,Basique,Tablette,Actif
+141,Belgique,28,50+,Homme,2023-03-11,35,Standard,Ordinateur,Actif
+142,Suisse,26,18-24,Femme,2022-01-11,34,Premium,Smart TV,Actif
+143,Canada,28,35-49,Non spécifié,2022-07-11,10,VIP,Console Jeu,Actif
+144,Allemagne,28,50+,Homme,2022-07-11,19,Essai,Smartphone Android,Actif
+145,Espagne,38,35-49,Femme,2024-01-11,44,Basique,iPhone,Actif
+146,Italie,39,35-49,Non spécifié,2024-06-11,36,Standard,Tablette,Actif
+147,Royaume-Uni,19,25-34,Homme,2025-12-11,34,Premium,Ordinateur,Actif
+148,États-Unis,18,35-49,Femme,2024-04-11,26,VIP,Smart TV,Actif
+149,Maroc,45,25-34,Non spécifié,2022-04-11,47,Essai,Console Jeu,Actif
+150,Tunisie,42,25-34,Homme,2025-12-11,37,Basique,Smartphone Android,Inactif
+151,Algérie,68,50+,Femme,2025-04-11,19,Standard,iPhone,Actif
+152,Sénégal,56,50+,Non spécifié,2024-08-11,12,Premium,Tablette,Actif
+153,Côte d'Ivoire,33,35-49,Homme,2025-06-11,9,VIP,Ordinateur,Actif
+154,Brésil,53,50+,Femme,2025-11-11,46,Essai,Smart TV,Actif
+155,Portugal,46,50+,Non spécifié,2023-03-11,40,Basique,Console Jeu,Actif
+156,Pays-Bas,61,35-49,Homme,2025-09-11,44,Standard,Smartphone Android,Suspendu
+157,Luxembourg,55,50+,Femme,2025-11-11,8,Premium,iPhone,Actif
+158,Suède,64,50+,Non spécifié,2022-09-11,12,VIP,Tablette,Actif
+159,Autre,69,25-34,Homme,2025-02-11,47,Essai,Ordinateur,Actif
+160,France,65,25-34,Femme,2025-04-11,21,Basique,Smart TV,Actif
+161,Belgique,18,50+,Non spécifié,2022-03-11,39,Standard,Console Jeu,Actif
+162,Suisse,62,25-34,Homme,2024-01-11,43,Premium,Smartphone Android,Inactif
+163,Canada,72,50+,Femme,2022-05-11,18,VIP,iPhone,Actif
+164,Allemagne,25,35-49,Non spécifié,2023-01-11,9,Essai,Tablette,Actif
+165,Espagne,74,35-49,Homme,2025-04-11,13,Basique,Ordinateur,Inactif
+166,Italie,35,18-24,Femme,2024-12-11,9,Standard,Smart TV,Actif
+167,Royaume-Uni,62,35-49,Non spécifié,2025-07-11,12,Premium,Console Jeu,Inactif
+168,États-Unis,55,25-34,Homme,2024-02-11,9,VIP,Smartphone Android,Suspendu
+169,Maroc,39,35-49,Femme,2022-11-11,18,Essai,iPhone,Actif
+170,Tunisie,70,18-24,Non spécifié,2023-08-11,39,Basique,Tablette,Actif
+171,Algérie,44,35-49,Homme,2023-05-11,8,Standard,Ordinateur,Inactif
+172,Sénégal,48,35-49,Femme,2023-02-11,1,Premium,Smart TV,Inactif
+173,Côte d'Ivoire,43,25-34,Non spécifié,2022-03-11,24,VIP,Console Jeu,Actif
+174,Brésil,69,50+,Homme,2024-03-11,12,Essai,Smartphone Android,Inactif
+175,Portugal,67,50+,Femme,2025-02-11,44,Basique,iPhone,Inactif
+176,Pays-Bas,44,35-49,Non spécifié,2024-02-11,36,Standard,Tablette,Actif
+177,Luxembourg,38,35-49,Homme,2024-09-11,6,Premium,Ordinateur,Actif
+178,Suède,64,50+,Femme,2024-10-11,43,VIP,Smart TV,Suspendu
+179,Autre,34,35-49,Non spécifié,2022-07-11,37,Essai,Console Jeu,Actif
+180,France,22,35-49,Homme,2025-04-11,36,Basique,Smartphone Android,Actif
+181,Belgique,45,25-34,Femme,2025-02-11,26,Standard,iPhone,Inactif
+182,Suisse,28,18-24,Non spécifié,2022-10-11,37,Premium,Tablette,Actif
+183,Canada,19,35-49,Homme,2024-08-11,7,VIP,Ordinateur,Actif
+184,Allemagne,26,35-49,Femme,2023-10-11,15,Essai,Smart TV,Inactif
+185,Espagne,43,35-49,Non spécifié,2022-05-11,14,Basique,Console Jeu,Actif
+186,Italie,63,25-34,Homme,2022-09-11,39,Standard,Smartphone Android,Actif
+187,Royaume-Uni,59,35-49,Femme,2024-08-11,5,Premium,iPhone,Actif
+188,États-Unis,19,25-34,Non spécifié,2023-04-11,30,VIP,Tablette,Actif
+189,Maroc,21,25-34,Homme,2025-11-11,27,Essai,Ordinateur,Actif
+190,Tunisie,31,50+,Femme,2023-09-11,45,Basique,Smart TV,Inactif
+191,Algérie,67,35-49,Non spécifié,2023-10-11,45,Standard,Console Jeu,Inactif
+192,Sénégal,67,35-49,Homme,2022-08-11,10,Premium,Smartphone Android,Actif
+193,Côte d'Ivoire,52,50+,Femme,2023-08-11,9,VIP,iPhone,Actif
+194,Brésil,66,18-24,Non spécifié,2022-02-11,25,Essai,Tablette,Actif
+195,Portugal,68,25-34,Homme,2022-05-11,45,Basique,Ordinateur,Inactif
+196,Pays-Bas,59,35-49,Femme,2023-10-11,33,Standard,Smart TV,Inactif
+197,Luxembourg,62,50+,Non spécifié,2022-11-11,4,Premium,Console Jeu,Suspendu
+198,Suède,57,35-49,Homme,2023-12-11,42,VIP,Smartphone Android,Inactif
+199,Autre,41,35-49,Femme,2025-03-11,33,Essai,iPhone,Inactif
+200,France,66,35-49,Non spécifié,2022-01-11,41,Basique,Tablette,Actif
+201,Belgique,24,35-49,Homme,2022-02-11,1,Standard,Ordinateur,Actif
+202,Suisse,35,35-49,Femme,2023-11-11,12,Premium,Smart TV,Actif
+203,Canada,43,25-34,Non spécifié,2025-10-11,46,VIP,Console Jeu,Suspendu
+204,Allemagne,28,18-24,Homme,2023-11-11,28,Essai,Smartphone Android,Actif
+205,Espagne,48,35-49,Femme,2024-07-11,24,Basique,iPhone,Actif
+206,Italie,58,50+,Non spécifié,2025-06-11,48,Standard,Tablette,Suspendu
+207,Royaume-Uni,75,18-24,Homme,2023-12-11,14,Premium,Ordinateur,Inactif
+208,États-Unis,37,50+,Femme,2023-09-11,2,VIP,Smart TV,Suspendu
+209,Maroc,57,25-34,Non spécifié,2022-07-11,29,Essai,Console Jeu,Suspendu
+210,Tunisie,59,35-49,Homme,2022-02-11,47,Basique,Smartphone Android,Inactif
+211,Algérie,73,50+,Femme,2022-03-11,4,Standard,iPhone,Actif
+212,Sénégal,38,25-34,Non spécifié,2023-12-11,17,Premium,Tablette,Actif
+213,Côte d'Ivoire,51,50+,Homme,2024-09-11,26,VIP,Ordinateur,Actif
+214,Brésil,31,35-49,Femme,2025-08-11,14,Essai,Smart TV,Actif
+215,Portugal,62,18-24,Non spécifié,2022-04-11,25,Basique,Console Jeu,Inactif
+216,Pays-Bas,39,25-34,Homme,2022-02-11,2,Standard,Smartphone Android,Suspendu
+217,Luxembourg,37,50+,Femme,2023-10-11,43,Premium,iPhone,Inactif
+218,Suède,32,35-49,Non spécifié,2025-05-11,25,VIP,Tablette,Actif
+219,Autre,23,25-34,Homme,2023-09-11,2,Essai,Ordinateur,Actif
+220,France,74,25-34,Femme,2024-07-11,31,Basique,Smart TV,Actif
+221,Belgique,44,25-34,Non spécifié,2024-06-11,5,Standard,Console Jeu,Actif
+222,Suisse,69,25-34,Homme,2025-10-11,13,Premium,Smartphone Android,Actif
+223,Canada,73,35-49,Femme,2023-01-11,22,VIP,iPhone,Actif
+224,Allemagne,67,25-34,Non spécifié,2024-03-11,5,Essai,Tablette,Actif
+225,Espagne,28,50+,Homme,2025-05-11,48,Basique,Ordinateur,Actif
+226,Italie,62,50+,Femme,2024-07-11,41,Standard,Smart TV,Suspendu
+227,Royaume-Uni,48,25-34,Non spécifié,2024-10-11,10,Premium,Console Jeu,Actif
+228,États-Unis,71,18-24,Homme,2022-09-11,37,VIP,Smartphone Android,Actif
+229,Maroc,20,25-34,Femme,2023-11-11,21,Essai,iPhone,Actif
+230,Tunisie,71,35-49,Non spécifié,2024-07-11,26,Basique,Tablette,Actif
+231,Algérie,21,35-49,Homme,2022-06-11,39,Standard,Ordinateur,Actif
+232,Sénégal,55,25-34,Femme,2025-02-11,26,Premium,Smart TV,Inactif
+233,Côte d'Ivoire,37,50+,Non spécifié,2024-11-11,9,VIP,Console Jeu,Actif
+234,Brésil,20,35-49,Homme,2023-01-11,7,Essai,Smartphone Android,Actif
+235,Portugal,75,18-24,Femme,2024-12-11,7,Basique,iPhone,Inactif
+236,Pays-Bas,75,35-49,Non spécifié,2025-03-11,16,Standard,Tablette,Actif
+237,Luxembourg,20,35-49,Homme,2024-03-11,16,Premium,Ordinateur,Actif
+238,Suède,59,25-34,Femme,2025-03-11,12,VIP,Smart TV,Actif
+239,Autre,60,18-24,Non spécifié,2025-06-11,23,Essai,Console Jeu,Inactif
+240,France,41,35-49,Homme,2025-04-11,22,Basique,Smartphone Android,Actif
+241,Belgique,38,50+,Femme,2025-05-11,12,Standard,iPhone,Actif
+242,Suisse,30,35-49,Non spécifié,2023-02-11,2,Premium,Tablette,Actif
+243,Canada,53,25-34,Homme,2024-05-11,13,VIP,Ordinateur,Actif
+244,Allemagne,68,25-34,Femme,2022-09-11,23,Essai,Smart TV,Inactif
+245,Espagne,68,25-34,Non spécifié,2023-03-11,46,Basique,Console Jeu,Actif
+246,Italie,63,25-34,Homme,2024-09-11,1,Standard,Smartphone Android,Actif
+247,Royaume-Uni,54,18-24,Femme,2024-11-11,15,Premium,iPhone,Actif
+248,États-Unis,51,35-49,Non spécifié,2023-03-11,39,VIP,Tablette,Inactif
+249,Maroc,71,18-24,Homme,2024-09-11,27,Essai,Ordinateur,Inactif
+250,Tunisie,36,25-34,Femme,2023-11-11,44,Basique,Smart TV,Inactif
+251,Algérie,60,18-24,Non spécifié,2025-12-11,44,Standard,Console Jeu,Actif
+252,Sénégal,32,18-24,Homme,2024-12-11,17,Premium,Smartphone Android,Inactif
+253,Côte d'Ivoire,42,25-34,Femme,2025-02-11,31,VIP,iPhone,Actif
+254,Brésil,42,18-24,Non spécifié,2022-10-11,44,Essai,Tablette,Actif
+255,Portugal,55,35-49,Homme,2023-03-11,47,Basique,Ordinateur,Inactif
+256,Pays-Bas,71,50+,Femme,2025-03-11,48,Standard,Smart TV,Actif
+257,Luxembourg,53,50+,Non spécifié,2023-11-11,12,Premium,Console Jeu,Actif
+258,Suède,69,35-49,Homme,2023-04-11,13,VIP,Smartphone Android,Actif
+259,Autre,75,35-49,Femme,2022-10-11,25,Essai,iPhone,Actif
+260,France,48,50+,Non spécifié,2025-07-11,33,Basique,Tablette,Actif
+261,Belgique,68,25-34,Homme,2022-09-11,20,Standard,Ordinateur,Actif
+262,Suisse,30,25-34,Femme,2024-04-11,39,Premium,Smart TV,Inactif
+263,Canada,48,35-49,Non spécifié,2024-08-11,20,VIP,Console Jeu,Inactif
+264,Allemagne,47,25-34,Homme,2023-07-11,28,Essai,Smartphone Android,Actif
+265,Espagne,60,50+,Femme,2023-10-11,31,Basique,iPhone,Actif
+266,Italie,50,35-49,Non spécifié,2022-04-11,24,Standard,Tablette,Actif
+267,Royaume-Uni,68,25-34,Homme,2024-06-11,28,Premium,Ordinateur,Actif
+268,États-Unis,30,50+,Femme,2023-05-11,26,VIP,Smart TV,Actif
+269,Maroc,42,18-24,Non spécifié,2024-11-11,5,Essai,Console Jeu,Actif
+270,Tunisie,58,35-49,Homme,2023-02-11,38,Basique,Smartphone Android,Actif
+271,Algérie,40,18-24,Femme,2022-08-11,11,Standard,iPhone,Actif
+272,Sénégal,66,25-34,Non spécifié,2023-06-11,46,Premium,Tablette,Inactif
+273,Côte d'Ivoire,30,35-49,Homme,2023-12-11,22,VIP,Ordinateur,Actif
+274,Brésil,61,35-49,Femme,2023-04-11,45,Essai,Smart TV,Actif
+275,Portugal,55,35-49,Non spécifié,2025-09-11,10,Basique,Console Jeu,Actif
+276,Pays-Bas,42,35-49,Homme,2025-12-11,46,Standard,Smartphone Android,Actif
+277,Luxembourg,65,18-24,Femme,2022-06-11,11,Premium,iPhone,Actif
+278,Suède,56,25-34,Non spécifié,2022-03-11,20,VIP,Tablette,Actif
+279,Autre,59,50+,Homme,2024-01-11,30,Essai,Ordinateur,Actif
+280,France,49,35-49,Femme,2022-06-11,32,Basique,Smart TV,Actif
+281,Belgique,55,35-49,Non spécifié,2024-02-11,47,Standard,Console Jeu,Actif
+282,Suisse,51,35-49,Homme,2023-05-11,12,Premium,Smartphone Android,Actif
+283,Canada,19,25-34,Femme,2023-11-11,9,VIP,iPhone,Actif
+284,Allemagne,48,35-49,Non spécifié,2023-03-11,35,Essai,Tablette,Actif
+285,Espagne,58,25-34,Homme,2025-07-11,10,Basique,Ordinateur,Actif
+286,Italie,22,50+,Femme,2022-10-11,34,Standard,Smart TV,Actif
+287,Royaume-Uni,30,50+,Non spécifié,2024-03-11,19,Premium,Console Jeu,Actif
+288,États-Unis,32,35-49,Homme,2024-12-11,38,VIP,Smartphone Android,Actif
+289,Maroc,75,18-24,Femme,2023-09-11,28,Essai,iPhone,Actif
+290,Tunisie,27,18-24,Non spécifié,2022-05-11,13,Basique,Tablette,Actif
+291,Algérie,33,35-49,Homme,2022-06-11,6,Standard,Ordinateur,Inactif
+292,Sénégal,46,25-34,Femme,2022-02-11,28,Premium,Smart TV,Inactif
+293,Côte d'Ivoire,25,25-34,Non spécifié,2022-12-11,14,VIP,Console Jeu,Actif
+294,Brésil,57,25-34,Homme,2025-12-11,22,Essai,Smartphone Android,Suspendu
+295,Portugal,75,18-24,Femme,2024-04-11,43,Basique,iPhone,Actif
+296,Pays-Bas,58,25-34,Non spécifié,2023-06-11,29,Standard,Tablette,Actif
+297,Luxembourg,34,50+,Homme,2023-10-11,32,Premium,Ordinateur,Actif
+298,Suède,56,18-24,Femme,2025-05-11,34,VIP,Smart TV,Suspendu
+299,Autre,70,35-49,Non spécifié,2025-07-11,47,Essai,Console Jeu,Actif
+300,France,43,35-49,Homme,2025-08-11,3,Basique,Smartphone Android,Suspendu

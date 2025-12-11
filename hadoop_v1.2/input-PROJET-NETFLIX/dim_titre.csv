@@ -1,0 +1,94 @@
+id_titre,nom_titre,type_content,genre_principal,genres_secondaires,duree_minutes,est_production_netflix,pays_origine,langue_originale,date_ajout_catalogue,age_minimum
+0,Beasts of No Nation,Film,Drame,NULL,137,NULL,United States,English,2015-10-16,18
+1,The Ridiculous 6,Film,Comédie,NULL,120,NULL,United States,English,2015-12-11,16
+2,Crouching Tiger, Hidden Dragon: Sword of Destiny,Film,Action,NULL,105,NULL,United States China,English,2016-02-26,13
+3,Pee-wee's Big Holiday,Film,Comédie,NULL,89,NULL,United States,English,2016-03-18,7
+4,Special Correspondents,Film,Comédie,NULL,100,NULL,United States,English,2016-04-29,13
+5,The Do-Over,Film,Comédie,NULL,108,NULL,United States,English,2016-05-27,16
+6,The Fundamentals of Caring,Film,Drame,NULL,93,NULL,United States,English,2016-06-24,13
+7,Brahman Naman,Film,Comédie,NULL,95,NULL,India,English,2016-01-24,16
+8,Rebirth,Film,Thriller,NULL,101,NULL,United States,English,2016-07-15,16
+9,Tallulah,Film,Drame,NULL,111,NULL,United States,English,2016-07-29,16
+10,XOXO,Film,Drame musical,NULL,92,NULL,United States,English,2016-08-26,13
+11,ARQ,Film,Science-fiction,NULL,88,NULL,United States Canada,English,2016-09-16,13
+12,The Siege of Jadotville,Film,Action,NULL,108,NULL,Ireland South Africa,English,2016-10-07,16
+13,Mascots,Film,Comédie,NULL,89,NULL,United States,English,2016-10-13,13
+14,I Am the Pretty Thing That Lives in the House,Film,Horreur,NULL,87,NULL,Canada United States,English,2016-10-28,16
+15,7 Años,Film,Drame,NULL,77,NULL,Spain,Spanish,2016-10-28,13
+16,True Memoirs of an International Assassin,Film,Action,NULL,98,NULL,United States,English,2016-11-11,13
+17,Mercy,Film,Thriller,NULL,90,NULL,United States,English,2016-06-04,16
+18,Spectral,Film,Science-fiction,NULL,107,NULL,United States,English,2016-12-09,13
+19,Barry,Film,Biographie,NULL,104,NULL,United States,English,2016-12-16,16
+37,Blame!,Film,Animation,NULL,106,NULL,Japan,Japanese,2017-05-20,13
+40,Okja,Film,Aventure,NULL,120,NULL,South Korea United States,English Korean,2017-06-28,13
+50,Extraction,Film,Action,Thriller, Guerre,117,NULL,United States,English,2020-04-24,16
+51,The Old Guard,Film,Action,Fantastique, Aventure,125,NULL,United States,English,2020-07-10,16
+52,Enola Holmes,Film,Mystère,Aventure, Familial,121,NULL,United Kingdom,English,2020-09-23,13
+53,The Trial of the Chicago 7,Film,Drame,Historique, Politique,130,NULL,United States,English,2020-09-25,16
+54,Rebecca,Film,Thriller,Romance, Mystère,121,NULL,United Kingdom,English,2020-10-16,13
+55,The Queen's Gambit,Série,Drame,Historique, Sport,394,NULL,United States,English,2020-10-23,16
+56,Mank,Film,Drame,Historique, Biographie,131,NULL,United States,English,2020-11-13,16
+57,The Christmas Chronicles 2,Film,Aventure,Familial, Fantastique,115,NULL,United States,English,2020-11-25,7
+58,Ma Rainey's Black Bottom,Film,Drame,Musique, Historique,94,NULL,United States,English,2020-12-18,16
+59,The Midnight Sky,Film,Science-fiction,Drame, Aventure,118,NULL,United States,English,2020-12-23,13
+60,We Can Be Heroes,Film,Action,Familial, Science-fiction,100,NULL,United States,English,2020-12-25,7
+61,The White Tiger,Film,Drame,Thriller, Social,125,NULL,India,English,2021-01-13,16
+62,The Dig,Film,Drame,Historique, Romance,112,NULL,United Kingdom,English,2021-01-29,13
+63,Malcolm & Marie,Film,Drame,Romance, Psychologique,106,NULL,United States,English,2021-02-05,18
+64,I Care a Lot,Film,Thriller,Comédie noire, Crime,118,NULL,United States,English,2021-02-19,16
+65,Concrete Cowboy,Film,Drame,Familial, Social,111,NULL,United States,English,2021-04-02,16
+66,Thunder Force,Film,Comédie,Action, Science-fiction,106,NULL,United States,English,2021-04-09,13
+67,The Woman in the Window,Film,Thriller,Mystère, Drame,100,NULL,United States,English,2021-05-14,16
+68,Army of the Dead,Film,Action,Horreur, Science-fiction,148,NULL,United States,English,2021-05-21,18
+69,Awake,Film,Science-fiction,Thriller, Drame,96,NULL,United States,English,2021-06-09,13
+70,Fatherhood,Film,Drame,Comédie, Familial,109,NULL,United States,English,2021-06-18,13
+71,The Ice Road,Film,Action,Thriller, Aventure,109,NULL,United States,English,2021-06-25,13
+72,Fear Street Part 1: 1994,Film,Horreur,Thriller, Teen,107,NULL,United States,English,2021-07-02,16
+73,Fear Street Part 2: 1978,Film,Horreur,Thriller, Teen,110,NULL,United States,English,2021-07-09,16
+74,Fear Street Part 3: 1666,Film,Horreur,Thriller, Historique,114,NULL,United States,English,2021-07-16,16
+75,Blood Red Sky,Film,Horreur,Action, Thriller,121,NULL,Germany,English,2021-07-23,18
+76,The Last Letter from Your Lover,Film,Romance,Drame, Historique,110,NULL,United Kingdom,English,2021-07-23,13
+77,The Kissing Booth 3,Film,Comédie,Romance, Teen,113,NULL,United States,English,2021-08-11,13
+78,Beckett,Film,Thriller,Action, Mystère,108,NULL,United States,English,2021-08-13,16
+79,Sweet Girl,Film,Action,Thriller, Drame,110,NULL,United States,English,2021-08-20,16
+80,He's All That,Film,Comédie,Romance, Teen,91,NULL,United States,English,2021-08-27,13
+81,Afterlife of the Party,Film,Comédie,Fantastique, Drame,109,NULL,United States,English,2021-09-02,13
+82,Kate,Film,Action,Thriller, Drame,106,NULL,United States,English,2021-09-10,18
+83,Nightbooks,Film,Horreur,Fantastique, Familial,103,NULL,United States,English,2021-09-15,13
+84,Intrusion,Film,Thriller,Mystère, Drame,92,NULL,United States,English,2021-09-22,16
+85,The Starling,Film,Comédie,Drame, Familial,104,NULL,United States,English,2021-09-24,13
+86,No One Gets Out Alive,Film,Horreur,Thriller, Mystère,87,NULL,United Kingdom,English,2021-09-29,18
+87,The Guilty,Film,Thriller,Drame, Mystère,90,NULL,United States,English,2021-10-01,16
+88,There's Someone Inside Your House,Film,Horreur,Thriller, Teen,96,NULL,United States,English,2021-10-06,16
+89,The Forgotten Battle,Film,Guerre,Drame, Historique,124,NULL,Netherlands,Dutch,2021-10-15,16
+90,The Harder They Fall,Film,Western,Action, Drame,139,NULL,United States,English,2021-11-03,18
+91,Red Notice,Film,Action,Comédie, Aventure,118,NULL,United States,English,2021-11-05,13
+92,Love Hard,Film,Comédie,Romance, Teen,104,NULL,United States,English,2021-11-05,13
+93,Tick, Tick... Boom!,Film,Drame,Musique, Biographie,115,NULL,United States,English,2021-11-12,13
+94,The Princess Switch 3,Film,Comédie,Romance, Familial,105,NULL,United States,English,2021-11-18,7
+95,Bruised,Film,Drame,Action, Sport,129,NULL,United States,English,2021-11-24,18
+96,A Castle for Christmas,Film,Comédie,Romance, Familial,98,NULL,United States,English,2021-11-26,7
+97,The Power of the Dog,Film,Drame,Western, Psychologique,126,NULL,New Zealand,English,2021-12-01,16
+98,The Unforgivable,Film,Drame,Thriller, Crime,112,NULL,United States,English,2021-12-10,16
+99,Don't Look Up,Film,Comédie,Satire, Science-fiction,138,NULL,United States,English,2021-12-10,16
+100,The Lost Daughter,Film,Drame,Psychologique, Mystère,121,NULL,United States,English,2021-12-17,16
+101,The Witcher: Nightmare of the Wolf,Film,Animation,Action, Fantastique,83,NULL,United States,English,2021-08-23,16
+102,Vivo,Film,Animation,Musical, Aventure,95,NULL,United States,English,2021-08-06,0
+103,Back to the Outback,Film,Animation,Comédie, Aventure,95,NULL,Australia,English,2021-12-10,0
+104,Apollo 10 1/2: A Space Age Childhood,Film,Animation,Aventure, Historique,98,NULL,United States,English,2022-04-01,7
+105,The Sea Beast,Film,Animation,Aventure, Fantastique,115,NULL,United States,English,2022-07-08,7
+106,My Father's Dragon,Film,Animation,Aventure, Fantastique,99,NULL,Ireland,English,2022-11-11,0
+107,Guillermo del Toro's Pinocchio,Film,Animation,Fantastique, Drame,117,NULL,United States,English,2022-12-09,13
+108,The Magician's Elephant,Film,Animation,Aventure, Fantastique,99,NULL,United States,English,2023-03-17,0
+109,Nimona,Film,Animation,Action, Science-fiction,101,NULL,United States,English,2023-06-30,13
+192,Klaus,Film,Animation,NULL,97,NULL,Spain,English,2019-11-08,0
+227,The Willoughbys,Film,Animation,NULL,92,NULL,Canada United States,English,2020-04-22,0
+242,A Whisker Away,Film,Animation,NULL,104,NULL,Japan,Japanese,2020-06-18,7
+294,Over the Moon,Film,Animation,NULL,100,NULL,United States China,English,2020-10-23,0
+326,Pinocchio,Film,Animation,NULL,NULL,NULL,United States,English,2021-12-01,0
+387,13th,Documentaire,Documentaire,NULL,100,NULL,United States,English,2016-10-07,13
+399,Icarus,Documentaire,Documentaire,NULL,121,NULL,United States,English,2017-08-04,16
+438,Fyre,Documentaire,Documentaire,NULL,97,NULL,United States,English,2019-01-18,16
+460,American Factory,Documentaire,Documentaire,NULL,110,NULL,United States,English Mandarin,2019-08-21,13
+477,Miss Americana,Documentaire,Documentaire,NULL,85,NULL,United States,English,2020-01-31,13
+498,My Octopus Teacher,Documentaire,Documentaire,NULL,85,NULL,South Africa,English,2020-09-07,0

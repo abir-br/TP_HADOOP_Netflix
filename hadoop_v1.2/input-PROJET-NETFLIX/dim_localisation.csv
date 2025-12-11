@@ -1,0 +1,21 @@
+id_localisation,pays_visionnage,region,ville,fuseau_horaire,langue_principale_pays,devise,population_pays,revenu_moyen_par_habitant,penetration_internet
+1,France,Europe,Paris,+01:00,Français,EUR,67750000,38500.00,0.9200
+2,Belgique,Europe,Bruxelles,+01:00,Français,EUR,11500000,36500.00,0.8900
+3,Suisse,Europe,Zurich,+01:00,Allemand,CHF,8700000,68500.00,0.9400
+4,Canada,Amérique,Toronto,-05:00,Anglais,CAD,38000000,42000.00,0.9100
+5,Allemagne,Europe,Berlin,+01:00,Allemand,EUR,83100000,45500.00,0.9300
+6,Espagne,Europe,Madrid,+01:00,Espagnol,EUR,47300000,29500.00,0.8800
+7,Italie,Europe,Rome,+01:00,Italien,EUR,59500000,32500.00,0.8500
+8,Royaume-Uni,Europe,Londres,+00:00,Anglais,GBP,67200000,40500.00,0.9400
+9,États-Unis,Amérique,New York,-05:00,Anglais,USD,331000000,58500.00,0.9000
+10,Maroc,Afrique,Casablanca,+00:00,Arabe,MAD,37000000,8500.00,0.7400
+11,Tunisie,Afrique,Tunis,+01:00,Arabe,TND,11900000,10500.00,0.6800
+12,Algérie,Afrique,Alger,+01:00,Arabe,DZD,43800000,12500.00,0.6500
+13,Sénégal,Afrique,Dakar,+00:00,Français,XOF,16700000,3500.00,0.4500
+14,Côte d'Ivoire,Afrique,Abidjan,+00:00,Français,XOF,26300000,4200.00,0.5200
+15,Brésil,Amérique,São Paulo,-03:00,Portugais,BRL,213000000,14500.00,0.7800
+16,Portugal,Europe,Lisbonne,+00:00,Portugais,EUR,10200000,22500.00,0.8200
+17,Pays-Bas,Europe,Amsterdam,+01:00,Néerlandais,EUR,17400000,48500.00,0.9600
+18,Luxembourg,Europe,Luxembourg,+01:00,Français,EUR,633000,68500.00,0.9800
+19,Suède,Europe,Stockholm,+01:00,Suédois,SEK,10300000,52500.00,0.9500
+20,Japon,Asie,Tokyo,+09:00,Japonais,JPY,125800000,40500.00,0.9300
