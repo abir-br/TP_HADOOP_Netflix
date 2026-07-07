@@ -1,4 +1,4 @@
-# TP Hadoop — MapReduce avec Java
+# TP Hadoop — MapReduce avec Java (Netflix)
 
 Projet de travaux pratiques sur **Apache Hadoop / MapReduce**, réalisé en Java avec **Maven**.
 Le projet couvre les fondamentaux de MapReduce (WordCount, tri, top-K, jointure, group by) ainsi qu'une étude de cas complète sur un dataset **Netflix** (visionnages, membres, titres, coûts).
